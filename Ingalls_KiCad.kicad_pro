@@ -683,7 +683,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "micromouse_Ingalls",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -698,7 +698,7 @@
   "sheets": [
     [
       "0fcea68d-27e7-44f6-a95c-83c7fb79abe2",
-      "ルート"
+      "Root"
     ]
   ],
   "text_variables": {}

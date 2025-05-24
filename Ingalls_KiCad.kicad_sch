@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "0fcea68d-27e7-44f6-a95c-83c7fb79abe2")
 	(paper "A3")
+	(title_block
+		(title "Ingalls")
+	)
 	(lib_symbols
 		(symbol "A3982SLBTR-T:A3982SLBTR-T"
 			(exclude_from_sim no)
