@@ -13975,7 +13975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TEFT4300"
+		(property "Footprint" "LIB_TEFT4300:TEFT4300"
 			(at 292.1 183.82 0)
 			(effects
 				(font
@@ -14521,7 +14521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NJM2845DL133TE1"
+		(property "Footprint" "LIB_NJM2845DL1-33-TE1:NJM2845DL133TE1"
 			(at 166.37 133.02 0)
 			(effects
 				(font
@@ -15252,7 +15252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RUSBF1102"
+		(property "Footprint" "LIB_RUSBF110-2:RUSBF1102"
 			(at 64.77 127.94 0)
 			(effects
 				(font
@@ -15459,7 +15459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO-252-3-L1"
+		(property "Footprint" "LIB_NJM2845DL1-05-TE1:TO-252-3-L1"
 			(at 113.03 136.83 0)
 			(effects
 				(font
@@ -15939,7 +15939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SFH4545"
+		(property "Footprint" "LIB_SFH_4545:SFH4545"
 			(at 412.42 33.02 0)
 			(effects
 				(font
@@ -16747,7 +16747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PTS636SL43LFS"
+		(property "Footprint" "PTS636_SL43_LFS:PTS636SL43LFS"
 			(at 92.71 205.41 0)
 			(effects
 				(font
@@ -17025,7 +17025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B4BXHA"
+		(property "Footprint" "B4B-XH-A:B4BXHA"
 			(at 291.77 265.43 0)
 			(effects
 				(font
@@ -17607,7 +17607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SFH4545"
+		(property "Footprint" "LIB_SFH_4545:SFH4545"
 			(at 387.02 33.02 0)
 			(effects
 				(font
@@ -17728,7 +17728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PTS636SL43LFS"
+		(property "Footprint" "PTS636_SL43_LFS:PTS636SL43LFS"
 			(at 92.71 174.93 0)
 			(effects
 				(font
@@ -17933,7 +17933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P1030X245-18N"
+		(property "Footprint" "LIB_TD62083AF:SOIC127P1030X245-18N"
 			(at 241.3 168.58 0)
 			(effects
 				(font
@@ -18123,7 +18123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PKM13EPYH4000A0"
+		(property "Footprint" "PKM13EPYH4000-A0:PKM13EPYH4000A0"
 			(at 58.42 253.67 0)
 			(effects
 				(font
@@ -18395,7 +18395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A3959SLBTRT"
+		(property "Footprint" "A3982SLBTR-T:A3959SLBTRT"
 			(at 189.23 137.49 0)
 			(effects
 				(font
@@ -18601,7 +18601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TJ8S06M3LT6L1NQ"
+		(property "Footprint" "LIB_TJ8S06M3L_T6L1,NQ_:TJ8S06M3LT6L1NQ"
 			(at 141.91 27.94 0)
 			(effects
 				(font
@@ -19221,7 +19221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PTS636SL43LFS"
+		(property "Footprint" "PTS636_SL43_LFS:PTS636SL43LFS"
 			(at 92.71 190.17 0)
 			(effects
 				(font
@@ -19776,7 +19776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B4BXHA"
+		(property "Footprint" "B4B-XH-A:B4BXHA"
 			(at 169.85 265.43 0)
 			(effects
 				(font
@@ -20670,7 +20670,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SFH4545"
+		(property "Footprint" "LIB_SFH_4545:SFH4545"
 			(at 209.88 33.02 0)
 			(effects
 				(font
@@ -21662,7 +21662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SFH4545"
+		(property "Footprint" "LIB_SFH_4545:SFH4545"
 			(at 235.28 33.02 0)
 			(effects
 				(font
@@ -21989,7 +21989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A3959SLBTRT"
+		(property "Footprint" "A3982SLBTR-T:A3959SLBTRT"
 			(at 66.04 138.76 0)
 			(effects
 				(font
@@ -22263,7 +22263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TEFT4300"
+		(property "Footprint" "LIB_TEFT4300:TEFT4300"
 			(at 308.61 183.82 0)
 			(effects
 				(font
@@ -23312,7 +23312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TEFT4300"
+		(property "Footprint" "LIB_TEFT4300:TEFT4300"
 			(at 341.63 183.82 0)
 			(effects
 				(font
@@ -23729,7 +23729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TEFT4300"
+		(property "Footprint" "LIB_TEFT4300:TEFT4300"
 			(at 325.12 183.82 0)
 			(effects
 				(font
