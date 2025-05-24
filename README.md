@@ -42,7 +42,7 @@ Picture from linked website by Micromouse Hokuriku Dokokai
 **Changes to be made:**
 - Microcontroller changed from RX220 to ESP32S3-devkit
 - IR LED and Photo-transistor changed due to item availablity in the US
-- Wheels will be manufactured using CNC mills.
+- Wheels will be 3D printed using resin printer.
 - Further modification expected.
 
 # 3. Schematic Diagram
