@@ -1,4 +1,4 @@
-# Micromouse "BUM"
+# Micromouse "Ingalls"
 Contains micromouse specification, code, and list of items.
 
 # Table of Contents
@@ -42,17 +42,12 @@ Picture from linked website by Micromouse Hokuriku Dokokai
 **Changes to be made:**
 - Microcontroller changed from RX220 to ESP32S3-devkit
 - IR LED and Photo-transistor changed due to item availablity in the US
-- Wheels will be manufactured using CNC mills.
+- Wheels will be 3D printed using resin printer.
 - Further modification expected.
 
 # 3. Schematic Diagram
-Updated Sep 21 2024
-[Schematic Diagram V1.pdf](https://github.com/user-attachments/files/17085267/Schematic.Diagram.V1.pdf)
-**Explanation for V1**
-- Circuit around motor-driver is set.
-- Circuit around power-control is set.
-- Needs modification for pin configuratino around ESP32
-- Needs modification for buttons.
+Schematic diagram is contained in this repository in KICAD format.
+Detailed explanation of each component is found in this Google Slides. [Link: Slides](https://docs.google.com/presentation/d/1O1cH-XDseA_9v0i9zR2N1KNmGXuSQ24eQ0dWm67MaV0/edit?usp=sharing)
 
 # 4. Parts List
 | Parts Name | Part Number | Website | Explanation |
