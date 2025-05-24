@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "A3959SLBTRT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "A3959SLBTRT")
+        (spec "default")
+    )
+)

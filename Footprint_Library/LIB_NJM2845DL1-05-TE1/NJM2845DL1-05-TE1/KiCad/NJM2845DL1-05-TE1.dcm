@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM2845DL1-05-TE1
+D LDO Voltage Regulators LDO w/On/Off Cntrl
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/34641714fd14802a23a049b754208e87.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RUSBF110-2
+#/1134834/1485246/2.50/2/3/Resettable Fuse
+DEF RUSBF110-2 F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "RUSBF110-2" 550 150 50 H V L CNN
+F2 "RUSBF1102" 550 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/RUSBF110-2.pdf" 550 -50 50 H I L CNN
+F4 "Resettable Fuses - PPTC Radial Lead 1.1A 16V 40A Imax" 550 -150 50 H I L CNN "Description"
+F5 "14.2" 550 -250 50 H I L CNN "Height"
+F6 "LITTELFUSE" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "RUSBF110-2" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "650-RUSBF110-2" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Littelfuse/RUSBF110-2?qs=hv6pn79dJPRaxVwa6PP9BA%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 220 -80 280 -80 420 80 480 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

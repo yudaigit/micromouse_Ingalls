@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM188R6YA106MA73D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM188R6YA106MA73D" (!) = "", "GRM18x", "Other", "81-GRM188R6YA106MA3D", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R6YA106MA73D?qs=I53XXhTNm8uKsiF7Obn3Gg%3D%3D", "GRM188R6YA106MA73D", "https://www.arrow.com/en/products/grm188r6ya106ma73d/murata-manufacturing?region=nac", "MLCC, 0603", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01A.pdf", "0.8 mm"
+END_PART
+
+END.

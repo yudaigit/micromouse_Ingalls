@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PKM13EPYH4000-A0
+D Buzzers Transducer, Externally Driven Piezo 1.5 V 4kHz 70dB @ 1.5V, 10cm Through Hole PC Pins 
+K
+F https://www.murata.com/products/productdata/8801054523422/SPEC-PKM13EPYH4000-A0.pdf?1517839212000
+$ENDCMP
+#
+#End Doc Library

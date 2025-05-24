@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R5F52206BDFM#30
+D The RX220 Group of products is the slimmed-down version of the higher model RX210 Group, and has very high compatibilility in terms of pin arrangement and on the software level.
+K
+F https://www.renesas.com/sg/en/doc/products/mpumcu/doc/rx_family/r01ds0130ej0110_rx220.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.NJM2845DL1-05-TE1 :1 ;LDO Voltage Regulators LDO w/On/Off Cntrl
+TO-252-3-L1
+*STM IC
+*NGS
+*PLB 1="VIN" 2="VOUT" 3="GND"
+*MXP 3
+*DFN NJM2845DL1-05-TE1
+~!Manufacturer_Name (New Japan Radio)
+~!Manufacturer_Part_Number (NJM2845DL1-05-TE1)
+~!Mouser Part Number (513-NJM2845DL105-TE1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NJR/NJM2845DL1-05-TE1?qs=Vf9KeiGtj%252BGbfCGSGlajaA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/34641714fd14802a23a049b754208e87.pdf)
+~!Height (-)
+~!3D_Model (NJM2845DL1-05-TE1)
+NJM2845DL1-05-TE1
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-S3-DevKitC-1U-N8R8"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-03-16:35:12)
+    (mountForm default
+        (footprintRef "ESP32S3DevKitC1UN8R8")
+        (spec "System")
+    )
+)

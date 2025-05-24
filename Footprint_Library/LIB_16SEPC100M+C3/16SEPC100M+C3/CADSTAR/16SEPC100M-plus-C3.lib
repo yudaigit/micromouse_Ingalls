@@ -1,0 +1,18 @@
+.16SEPC100M-plus-C3 :1 ;100 F 16 V Aluminum - Polymer Capacitors Radial, Can 24mOhm 5000 Hrs @ 105C
+CAPPRD250W50D630H600
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 16SEPC100M-plus-C3
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (16SEPC100M+C3)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf)
+~!Height (6mm)
+~!3D_Model (16SEPC100M+C3)
+"16SEPC100M-plus-C3"
+1.1!U 2.1!U 

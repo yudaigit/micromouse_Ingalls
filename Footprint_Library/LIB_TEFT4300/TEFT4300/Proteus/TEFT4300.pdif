@@ -1,0 +1,143 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TEFT4300"
+   (description "Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package")
+   (family "ANA")
+   (package "TEFT4300")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf")
+   (attribute "Geometry.Height" "6.1mm")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "TEFT4300")
+   (attribute "Mouser Part Number" "782-TEFT4300")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D")
+   (attribute "Arrow Part Number" "TEFT4300")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/teft4300/vishay?region=nac")
+   (gate
+    (symbol "TEFT4300")
+    (pin "E" 1 PS)
+    (pin "C" 2 PS)
+   )
+  )
+  (symbol "TEFT4300"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 0 -150) (pt -100 -450))
+   )
+   (graphic
+    (stroke 20)
+    (path (pt -100 -200) (pt -100 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt -100 -250) (pt 0 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 0 -450) (pt 0 -500))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 0 -150) (pt 0 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt -100 -350) (pt 0 -450))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt -300 -80) (pt -200 -180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt -360 -140) (pt -260 -240))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt -70 -400) (pt -50 -380) (pt -30 -420) (pt -70 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt -320 -210) (pt -290 -180) (pt -260 -240) (pt -320 -210))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt -260 -150) (pt -230 -120) (pt -200 -180) (pt -260 -150))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible true))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible true))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TEFT4300"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.088 2.6)
+      (pt 3.088 2.6)
+      (pt 3.088 -2.6)
+      (pt -3.088 -2.6)
+      (pt -3.088 2.6))))
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 0 1.6)
+      (arc (pt 0.000 1.600) (pt -1.600 -1.600) (pt 1.601 1.600) (start 180.0) (sweep 90.0))
+      (pt 0 -1.6)
+      (arc (pt 0.000 -1.600) (pt -1.600 -1.600) (pt 1.601 1.600) (start 180.0) (sweep -90.0))
+      (pt 0 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.1 -1.6)
+      (pt 0.1 -1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.1 1.6)
+      (pt 0.1 1.6))))
+   (leg 1 (pt -1.270 0.000) (padstack 0))
+   (leg 2 (pt 1.270 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.09)
+    (plated true)
+    (pad (layer TCOP) (round 1.635))
+    (pad (layer INNER) (round 1.635))
+    (pad (layer BCOP) (round 1.635))
+   )
+   (model "TEFT4300.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

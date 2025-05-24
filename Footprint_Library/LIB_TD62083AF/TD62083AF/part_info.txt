@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TD62083AF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=18
+Version=1.1
+Released=2022-04-11 06:50:47
+Downloaded=2024-09-11 16:48:39
+3D=Y

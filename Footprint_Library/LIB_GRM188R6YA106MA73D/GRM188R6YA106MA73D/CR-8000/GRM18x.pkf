@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GRM18x"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GRM18x")
+        (spec "default")
+    )
+)

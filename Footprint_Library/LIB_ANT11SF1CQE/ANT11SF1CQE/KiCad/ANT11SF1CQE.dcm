@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ANT11SF1CQE
+D SWITCH TOGGLE SPDT 5A 120V
+K
+F https://www.citrelay.com/CatalogPages/SwitchCatalog/ANT.pdf
+$ENDCMP
+#
+#End Doc Library

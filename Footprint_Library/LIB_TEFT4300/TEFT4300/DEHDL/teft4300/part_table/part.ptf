@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TEFT4300'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "TEFT4300" (!) = "", "TEFT4300", "Other", "782-TEFT4300", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D", "TEFT4300", "https://www.arrow.com/en/products/teft4300/vishay?region=nac", "Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf", "6.1 mm"
+END_PART
+
+END.

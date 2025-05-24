@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RUSBF110-2
+D Resettable Fuses - PPTC Radial Lead 1.1A 16V 40A Imax
+K
+F https://componentsearchengine.com/Datasheets/1/RUSBF110-2.pdf
+$ENDCMP
+#
+#End Doc Library

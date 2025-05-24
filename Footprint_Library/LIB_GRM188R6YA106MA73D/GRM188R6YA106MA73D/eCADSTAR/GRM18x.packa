@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GRM188R6YA106MA73D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-30-16:09:54)
+    (mountForm default
+        (footprintRef "GRM18x")
+        (spec "System")
+    )
+)

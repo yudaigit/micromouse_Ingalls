@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B4B-XH-A"
+   (description "Wire-board; socket; male; XH; 2.5mm; PIN: 4; THT; 250V; 3A; -2585C")
+   (family "CON")
+   (package "B4BXHA")
+   (attribute "Datasheet Link" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf")
+   (attribute "Geometry.Height" "7mm")
+   (attribute "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+   (attribute "Manufacturer_Part_Number" "B4B-XH-A")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "B4B-XH-A")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "B4B-XH-A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "B4BXHA"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.45 -2.35)
+      (pt 9.95 -2.35)
+      (pt 9.95 3.4)
+      (pt -2.45 3.4)
+      (pt -2.45 -2.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.5 3.4)
+      (pt 9.95 3.4)
+      (pt 9.95 -2.35)
+      (pt -2.5 -2.35)
+      (pt -2.5 3.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 4.4)
+      (pt 10.95 4.4)
+      (pt 10.95 -3.35)
+      (pt -3.5 -3.35)
+      (pt -3.5 4.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.9)
+      (arc (pt 0.000 -2.900) (pt -0.050 -2.900) (pt 0.050 -2.800) (start 180.0) (sweep -90.0))
+      (pt 0 -2.8)
+      (arc (pt 0.000 -2.800) (pt -0.050 -2.900) (pt 0.050 -2.800) (start 180.0) (sweep 90.0))
+      (pt 0 -2.9))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.500 0.000) (padstack 0))
+   (leg 3 (pt 5.000 0.000) (padstack 0))
+   (leg 4 (pt 7.500 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.9)
+    (plated true)
+    (pad (layer TCOP) (round 1.400))
+    (pad (layer INNER) (round 1.400))
+    (pad (layer BCOP) (round 1.400))
+   )
+   (padstack 1
+    (hole 0.9)
+    (plated true)
+    (pad (layer TCOP) (square 1.400))
+    (pad (layer INNER) (round 1.400))
+    (pad (layer BCOP) (square 1.400))
+   )
+   (model "B4B-XH-A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

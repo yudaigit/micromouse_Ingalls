@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ANT11SF1CQE"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ANT11SF1CQE")
+        (spec "default")
+    )
+)

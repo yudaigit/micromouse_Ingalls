@@ -1,0 +1,152 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TJ8S06M3L_T6L1_NQ_"
+   (description "MOSFET P-Ch MOS -8A -60V 27W 890pF 0.104")
+   (family "TRX")
+   (package "TJ8S06M3LT6L1NQ")
+   (attribute "Datasheet Link" "http://toshiba.semicon-storage.com/info/docget.jsp?did=22588&prodName=TJ8S06M3L")
+   (attribute "Geometry.Height" "2mm")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "TJ8S06M3L(T6L1,NQ)")
+   (attribute "Mouser Part Number" "757-TJ8S06M3LT6L1NQ")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/TJ8S06M3LT6L1NQ?qs=QrGA9tEX17PEUG7KazRO1Q%3D%3D")
+   (attribute "Arrow Part Number" "TJ8S06M3L(T6L1,NQ)")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tj8s06m3l-t6l1nq/toshiba?region=nac")
+   (gate
+    (symbol "TJ8S06M3L_T6L1_NQ_")
+    (pin "G" 1 PS)
+    (pin "D" 2 PS)
+    (pin "S" 3 PS)
+   )
+  )
+  (symbol "TJ8S06M3L_T6L1_NQ_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 100) (pt 100 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 300 300))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0) (pt 200 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 230 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 230 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 220) (pt 230 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 -20) (pt 230 20))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 80) (pt 230 120))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 260 120) (pt 260 80) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 80 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 400) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 -200) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TJ8S06M3LT6L1NQ"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.25 0)
+      (pt 3.25 0)
+      (pt 3.25 -5.5)
+      (pt -3.25 -5.5)
+      (pt -3.25 0))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.25 3)
+      (pt 4.25 3)
+      (pt 4.25 -10.25)
+      (pt -4.25 -10.25)
+      (pt -4.25 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.25 0)
+      (pt -3.25 -5.5)
+      (pt -3.25 -5.5)
+      (pt 3.25 -5.5)
+      (pt 3.25 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.4 -9.2)
+      (arc (pt -2.400 -9.200) (pt -2.400 -9.250) (pt -2.300 -9.150) (start 180.0) (sweep 180.0))
+      (pt -2.3 -9.2)
+      (arc (pt -2.300 -9.200) (pt -2.400 -9.250) (pt -2.300 -9.150) (start 180.0) (sweep .0))
+      (pt -2.4 -9.2))))
+   (leg 1 (pt -2.300 -7.500) (padstack 0))
+   (leg 2 (pt 0.000 -1.000) (padstack 2))
+   (leg 3 (pt 2.300 -7.500) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.600 3.000 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 6.000 6.000 0 0 90.000))
+   )
+  )
+ )
+)

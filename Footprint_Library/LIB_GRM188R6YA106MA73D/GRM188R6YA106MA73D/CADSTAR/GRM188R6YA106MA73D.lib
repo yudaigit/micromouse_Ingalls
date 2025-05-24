@@ -1,0 +1,18 @@
+.GRM188R6YA106MA73D :1 ;MLCC, 0603
+GRM18x
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM188R6YA106MA73D
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM188R6YA106MA73D)
+~!Mouser Part Number (81-GRM188R6YA106MA3D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM188R6YA106MA73D?qs=I53XXhTNm8uKsiF7Obn3Gg%3D%3D)
+~!Arrow Part Number (GRM188R6YA106MA73D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/grm188r6ya106ma73d/murata-manufacturing?region=nac)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01A.pdf)
+~!Height (0.8mm)
+~!3D_Model (GRM188R6YA106MA73D)
+GRM188R6YA106MA73D
+1.1!U 2.1!U 

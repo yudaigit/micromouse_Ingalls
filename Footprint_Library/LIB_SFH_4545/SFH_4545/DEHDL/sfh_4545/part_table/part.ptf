@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFH_4545'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "SFH 4545" (!) = "", "SFH4545", "Other", "720-SFH4545", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/SFH-4545?qs=VcOkZLzzaubOJpq6Xyji1A%3D%3D", "SFH 4545 Osram Opto, 950nm IR LED, 5 mm Through Hole package", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036915.pdf", "8.3 mm"
+END_PART
+
+END.

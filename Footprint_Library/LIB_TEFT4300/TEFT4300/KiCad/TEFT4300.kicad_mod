@@ -1,0 +1,289 @@
+(footprint "TEFT4300"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TEFT4300-1")
+	(tags "Phototransistor")
+	(property "Reference" "Q**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "9a88ad8f-4e2d-4273-b023-c618fe31cdbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TEFT4300"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d954316e-1061-4a70-8584-de0d018076c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39a7e00a-40f6-423b-bb21-047313b72416")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56fa4610-fd86-4e47-933d-407d08a0fe27")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af53b7a4-393f-4c16-b2b4-b1cdeaac4f92")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.25 -5.25)
+		(end -1.25 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9d593fea-e742-49b9-885d-819c5b6eac1d")
+	)
+	(fp_line
+		(start -1.25 -2)
+		(end 1.75 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5b86790f-b8b3-4503-a6ab-1598479d6f35")
+	)
+	(fp_line
+		(start -1.25 0)
+		(end -1.25 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "af9878d6-7826-4112-bc32-497931e0355d")
+	)
+	(fp_line
+		(start -0.1 -1.6)
+		(end 0.1 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "df4ef3e9-1e7d-4cc7-9629-6f7799fc055e")
+	)
+	(fp_line
+		(start -0.1 1.6)
+		(end 0.1 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d16c22f1-b785-49be-866c-3286551c289a")
+	)
+	(fp_line
+		(start 1.25 -5.25)
+		(end 1.25 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "52f0bc91-5c31-47a9-9a4a-85ce12fe3772")
+	)
+	(fp_line
+		(start 1.25 0)
+		(end 1.25 -2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2424a875-5b15-4054-b33b-4ede26d61abf")
+	)
+	(fp_line
+		(start 1.75 -2.5)
+		(end -1.25 -2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e2508fad-2680-451d-b6d1-4a680b30bad0")
+	)
+	(fp_line
+		(start 1.75 -2)
+		(end 1.75 -2.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "48a91da3-3b2f-47ef-a592-dd06c9214f36")
+	)
+	(fp_arc
+		(start -1.25 -5.25)
+		(mid 0 -6.5)
+		(end 1.25 -5.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c2dde884-c92a-4fa7-855a-dd9ca35c3c3e")
+	)
+	(fp_line
+		(start -3.088 -2.6)
+		(end 3.088 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d4a84ea8-75d9-45f3-a44b-5984f520f6ac")
+	)
+	(fp_line
+		(start -3.088 2.6)
+		(end -3.088 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "09aaecbc-88d4-412c-9bcb-1093109b3a19")
+	)
+	(fp_line
+		(start 3.088 -2.6)
+		(end 3.088 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d27b7c0-e5b7-4819-8682-74979e82c13b")
+	)
+	(fp_line
+		(start 3.088 2.6)
+		(end -3.088 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "083c5d8f-7b7a-4e44-bee0-c9cdd12b9366")
+	)
+	(fp_line
+		(start 0 -1.6)
+		(end 0 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d60b318-2e88-471c-8a1c-67ccd2fdff14")
+	)
+	(fp_line
+		(start 0 1.6)
+		(end 0 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1b320d2e-da8b-45be-9dc6-ebb85815b9d7")
+	)
+	(fp_arc
+		(start 0.001 -1.6)
+		(mid 1.6005 0.0005)
+		(end 0 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15d973b9-901c-4d66-b495-d4357bc85a04")
+	)
+	(fp_arc
+		(start 0.001 1.6)
+		(mid -1.5995 0.0005)
+		(end 0 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a522a572-6e83-47ad-aef8-47a7c7ee788e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "958b4033-11f3-4f2b-9872-449eb6f0a5e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -1.27 0)
+		(size 1.635 1.635)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "63e136e9-ccca-432e-bdda-088da2a68ebe")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 0)
+		(size 1.635 1.635)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aa7097e8-8964-4a59-b67c-f8077f261bef")
+	)
+	(model "TEFT4300.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

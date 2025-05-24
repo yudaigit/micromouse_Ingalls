@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=16SEPC100M+TSS
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor, Polarized Radial Diameter
+PinCount=2
+Version=3.1
+Released=2018-03-30 09:01:20
+Downloaded=2024-09-26 04:42:28
+3D=Y

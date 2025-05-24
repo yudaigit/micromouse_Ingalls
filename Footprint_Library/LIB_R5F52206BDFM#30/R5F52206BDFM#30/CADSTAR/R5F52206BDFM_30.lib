@@ -1,0 +1,19 @@
+.R5F52206BDFM_30 :1 ;The RX220 Group of products is the slimmed-down version of the higher model RX210 Group, and has very high compatibilility in terms of pin arrangement and on the software level.
+QFP50P1200X1200X170-64N
+*STM IC
+*NGS
+*PLB 1="P03" 2="VCL" 3="MD" 4="XCIN" 5="XCOUT" 6="RES#" 7="P37/XTAL" 8="VSS_1" 9="P36/EXTAL" 10="VCC_1" 11="P35" 12="P32" 13="P31" 14="P30" 15="P27" 16="P26" 17="P17" 18="P16" 19="P15" 20="P14" 21="PH3" 22="PH2" 23="PH1" 24="PH0" 25="P55" 26="P54" 27="PC7" 28="PC6" 29="PC5" 30="PC4" 31="PC3" 32="PC2" 33="PB7/PC1" 34="PB6/PC0" 35="PB5" 36="PB3" 37="PB1" 38="VCC_2" 39="PB0" 40="VSS_2" 41="PA6" 42="PA4" 43="PA3" 44="PA1" 45="PA0" 46="PE5" 47="PE4" 48="PE3" &
+49="PE2" 50="PE1" 51="PE0" 52="NC_1" 53="P46" 54="NC_2" 55="P44" 56="P43" 57="P42" 58="P41" 59="VREFL0" 60="P40" 61="VREFH0" 62="AVCC0" 63="P05" 64="AVSS0"
+*MXP 64
+*DFN R5F52206BDFM_30
+~!Manufacturer_Name (Renesas Electronics)
+~!Manufacturer_Part_Number (R5F52206BDFM#30)
+~!Mouser Part Number (968-R5F52206BDFM#30)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/R5F52206BDFM30/?qs=ZVKuL1Ob8AunE2VrwZ7crw%3D%3D)
+~!Arrow Part Number (R5F52206BDFM#30)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/r5f52206bdfm30/renesas-electronics)
+~!Link Datasheet (https://www.renesas.com/sg/en/doc/products/mpumcu/doc/rx_family/r01ds0130ej0110_rx220.pdf)
+~!Height (1.7mm)
+~!3D_Model (R5F52206BDFM#30)
+R5F52206BDFM_30
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 64.1!U 63.1!U 62.1!U 61.1!U 60.1!U 59.1!U 58.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 50.1!U 49.1!U 

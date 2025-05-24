@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16SEPC100M
+D Panasonic Aluminium Polymer Capacitor 100uF 16V dc 6.3mm Through Hole C6 OS-CON Series +105C
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf
+$ENDCMP
+#
+#End Doc Library

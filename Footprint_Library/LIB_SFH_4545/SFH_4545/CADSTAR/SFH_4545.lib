@@ -1,0 +1,16 @@
+.SFH_4545 :1 ;SFH 4545 Osram Opto, 950nm IR LED, 5 mm Through Hole package
+SFH4545
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SFH_4545
+~!Mouser Part Number (720-SFH4545)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ams-OSRAM/SFH-4545?qs=VcOkZLzzaubOJpq6Xyji1A%3D%3D)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (SFH 4545)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036915.pdf)
+~!Height (8.3mm)
+~!3D_Model (SFH_4545)
+SFH_4545
+1.1!U 2.1!U 

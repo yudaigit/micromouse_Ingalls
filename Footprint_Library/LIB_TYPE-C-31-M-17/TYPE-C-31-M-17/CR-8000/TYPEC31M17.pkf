@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TYPEC31M17"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TYPEC31M17")
+        (spec "default")
+    )
+)

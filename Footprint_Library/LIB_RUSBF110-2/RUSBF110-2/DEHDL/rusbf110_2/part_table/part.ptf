@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RUSBF110_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "RUSBF110-2" (!) = "", "RUSBF1102", "Other", "650-RUSBF110-2", "https://www.mouser.co.uk/ProductDetail/Littelfuse/RUSBF110-2?qs=hv6pn79dJPRaxVwa6PP9BA%3D%3D", "", "", "Resettable Fuses - PPTC Radial Lead 1.1A 16V 40A Imax", "https://componentsearchengine.com/Datasheets/1/RUSBF110-2.pdf", "14.2 mm"
+END_PART
+
+END.

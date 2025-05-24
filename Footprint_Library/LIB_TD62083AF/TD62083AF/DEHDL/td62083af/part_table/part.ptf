@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TD62083AF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TD62083AF" (!) = "", "SOIC127P1030X245-18N", "Small Outline Packages", "", "", "", "", "IC DRIVER DARL SINK 8-CH 18-SOP", "https://pdf1.alldatasheet.com/datasheet-pdf/view/32261/TOSHIBA/TD62083AF.html", "2.45 mm"
+END_PART
+
+END.

@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_14976785"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-17-08:24:26)
+    (utime 2024-04-10-12:47:05)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "ANT11SF1CQE")
+)
+
+
+(pinAssign "ECS_14976785"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-17-08:24:26)
+    (utime 2024-04-10-12:47:05)
+    (interface
+        (port "1" (symbPinId 1) (portName "NO") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NC") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14976785")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ANT11SF1CQE")
+)
+
+
+(part "ANT11SF1CQE"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-17-08:24:26)
+    (utime 2024-04-10-12:47:05)
+    (packageRef "ANT11SF1CQE")
+    (pinAssignRef "ECS_14976785")
+    (interface
+        (port "1" (symbPinId 1) (portName "NO") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "NC") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "SWITCH TOGGLE SPDT 5A 120V")
+    (property "Manufacturer_Name" "CIT Relay & Switch")
+    (property "Manufacturer_Part_Number" "ANT11SF1CQE")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.citrelay.com/CatalogPages/SwitchCatalog/ANT.pdf")
+    (property "compAreaTopHeight" 26.66)
+)
+
+

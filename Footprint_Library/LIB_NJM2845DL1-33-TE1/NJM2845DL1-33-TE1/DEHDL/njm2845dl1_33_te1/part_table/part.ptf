@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NJM2845DL1_33_TE1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nisshinbo", "NJM2845DL1-33-TE1" (!) = "", "NJM2845DL133TE1", "Other", "513-NJM2845DL133-TE1", "https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJM2845DL1-33-TE1?qs=Vf9KeiGtj%252BHsxdmME1E7bA%3D%3D", "", "", "LDO Voltage Regulators 75dB 45uVrms 800mA 1.0uF 3.3V 1W", "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM2845_NJM2846_E.pdf", "2.38 mm"
+END_PART
+
+END.

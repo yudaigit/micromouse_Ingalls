@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A3982SLBTR-T
+D Dual 1.5 Full Bridge Motor Driver
+K
+F http://www.allegromicro.com/~/media/files/datasheets/a3982-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

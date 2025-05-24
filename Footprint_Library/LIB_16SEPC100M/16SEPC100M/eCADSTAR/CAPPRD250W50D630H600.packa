@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "16SEPC100M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "CAPPRD250W50D630H600")
+        (spec "System")
+    )
+)

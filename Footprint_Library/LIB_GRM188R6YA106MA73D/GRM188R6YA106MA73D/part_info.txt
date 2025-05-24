@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM188R6YA106MA73D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2023-03-07 08:48:03
+Downloaded=2024-09-26 06:55:51
+3D=Y

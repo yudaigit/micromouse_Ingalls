@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RUSBF1102"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RUSBF1102")
+        (spec "default")
+    )
+)

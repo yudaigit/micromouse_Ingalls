@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RUSBF110-2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-09-09:17:25)
+    (mountForm default
+        (footprintRef "RUSBF1102")
+        (spec "System")
+    )
+)

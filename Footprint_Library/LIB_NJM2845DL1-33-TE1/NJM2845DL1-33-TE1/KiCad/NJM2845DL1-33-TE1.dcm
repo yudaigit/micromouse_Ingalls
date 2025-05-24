@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM2845DL1-33-TE1
+D LDO Voltage Regulators 75dB 45uVrms 800mA 1.0uF 3.3V 1W
+K
+F https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM2845_NJM2846_E.pdf
+$ENDCMP
+#
+#End Doc Library

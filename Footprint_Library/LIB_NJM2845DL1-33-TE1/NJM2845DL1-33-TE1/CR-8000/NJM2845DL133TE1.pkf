@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NJM2845DL133TE1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NJM2845DL133TE1")
+        (spec "default")
+    )
+)

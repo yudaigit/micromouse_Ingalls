@@ -1,0 +1,17 @@
+.NJM2845DL1-33-TE1 :1 ;LDO Voltage Regulators 75dB 45uVrms 800mA 1.0uF 3.3V 1W
+NJM2845DL133TE1
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="VOUT"
+*MXP 3
+*DFN NJM2845DL1-33-TE1
+~!Manufacturer_Name (Nisshinbo)
+~!Manufacturer_Part_Number (NJM2845DL1-33-TE1)
+~!Mouser Part Number (513-NJM2845DL133-TE1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJM2845DL1-33-TE1?qs=Vf9KeiGtj%252BHsxdmME1E7bA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM2845_NJM2846_E.pdf)
+~!Height (2.38mm)
+NJM2845DL1-33-TE1
+1.1!U 2.1!U 3.1!U 

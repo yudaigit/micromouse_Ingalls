@@ -1,0 +1,18 @@
+.3362P-1-103LF :1 ;10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362
+"3362P_1"
+*STM VR
+*NGS
+*PLB 1="CCW" 2="WIPER" 3="CW"
+*MXP 3
+*DFN 3362P-1-103LF
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (3362P-1-103LF)
+~!Mouser Part Number (652-3362P-1-103LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-103LF?qs=tS7CBNq%252BQ07BavGNEQud%252BA%3D%3D)
+~!Arrow Part Number (3362P-1-103LF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/3362p-1-103lf/bourns?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf)
+~!Height (-)
+~!3D_Model (3362P-1-103LF)
+"3362P-1-103LF"
+1.1!U 2.1!U 3.1!U 

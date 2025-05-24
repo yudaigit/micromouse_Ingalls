@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ANT11SF1CQE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CIT Relay & Switch", "ANT11SF1CQE" (!) = "", "ANT11SF1CQE", "Other", "", "", "", "", "SWITCH TOGGLE SPDT 5A 120V", "https://www.citrelay.com/CatalogPages/SwitchCatalog/ANT.pdf", "26.66 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=A3982SLBTR-T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=24
+Version=9.2
+Released=2017-06-15 14:08:33
+Downloaded=2024-09-12 20:20:47
+3D=Y

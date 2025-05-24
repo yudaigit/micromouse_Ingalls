@@ -1,0 +1,9 @@
+Manufacturer=E-Switch
+PartNumber=EG1218
+PartCategory=Switch
+PackageCategory=Other
+PinCount=3
+Version=9.7
+Released=2020-09-17 08:32:10
+Downloaded=2024-09-26 07:18:31
+3D=Y

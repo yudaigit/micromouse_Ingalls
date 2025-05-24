@@ -1,0 +1,18 @@
+.RUSBF110-2 :1 ;Resettable Fuses - PPTC Radial Lead 1.1A 16V 40A Imax
+RUSBF1102
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RUSBF110-2
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (RUSBF110-2)
+~!Mouser Part Number (650-RUSBF110-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/RUSBF110-2?qs=hv6pn79dJPRaxVwa6PP9BA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/RUSBF110-2.pdf)
+~!Height (14.2mm)
+~!3D_Model (RUSBF110-2)
+RUSBF110-2
+1.1!U 2.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NJM2845DL1-33-TE1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-20-14:52:55)
+    (mountForm default
+        (footprintRef "NJM2845DL133TE1")
+        (spec "System")
+    )
+)

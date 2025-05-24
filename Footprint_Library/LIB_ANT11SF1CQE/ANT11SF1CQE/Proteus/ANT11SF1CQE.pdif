@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ANT11SF1CQE"
+   (description "SWITCH TOGGLE SPDT 5A 120V")
+   (family "SWI")
+   (package "ANT11SF1CQE")
+   (attribute "Datasheet Link" "https://www.citrelay.com/CatalogPages/SwitchCatalog/ANT.pdf")
+   (attribute "Geometry.Height" "26.66mm")
+   (attribute "Manufacturer_Name" "CIT Relay & Switch")
+   (attribute "Manufacturer_Part_Number" "ANT11SF1CQE")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "ANT11SF1CQE")
+    (pin "NO" 1 PS)
+    (pin "NC" 2 NC)
+    (pin "COM" 3 PS)
+   )
+  )
+  (symbol "ANT11SF1CQE"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ANT11SF1CQE"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.43 11.05)
+      (pt 3.43 11.05)
+      (pt 3.43 -1.65)
+      (pt -3.43 -1.65)
+      (pt -3.43 11.05))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.43 12.05)
+      (pt 4.43 12.05)
+      (pt 4.43 -2.65)
+      (pt -4.43 -2.65)
+      (pt -4.43 12.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.5 -1.65)
+      (pt -3.43 -1.65)
+      (pt -3.43 11.05)
+      (pt -0.5 11.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.5 -1.65)
+      (pt 3.43 -1.65)
+      (pt 3.43 11.05)
+      (pt 0.5 11.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -2.2)
+      (arc (pt 0.000 -2.200) (pt -0.050 -2.200) (pt 0.050 -2.100) (start 180.0) (sweep -90.0))
+      (pt 0 -2.1)
+      (arc (pt 0.000 -2.100) (pt -0.050 -2.200) (pt 0.050 -2.100) (start 180.0) (sweep 90.0))
+      (pt 0 -2.2))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 0.000 4.700) (padstack 0))
+   (leg 3 (pt 0.000 9.400) (padstack 0))
+   (padstack 0
+    (hole 1.85)
+    (plated true)
+    (pad (layer TCOP) (round 2.775))
+    (pad (layer INNER) (round 2.775))
+    (pad (layer BCOP) (round 2.775))
+   )
+   (padstack 1
+    (hole 1.85)
+    (plated true)
+    (pad (layer TCOP) (square 2.775))
+    (pad (layer INNER) (round 2.775))
+    (pad (layer BCOP) (square 2.775))
+   )
+   (model "ANT11SF1CQE.stp"
+    (euler 0 0 90)
+    (offset 0 4.699999809265137 10.180000305175781)
+   )
+  )
+ )
+)

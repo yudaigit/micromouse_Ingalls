@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_623444"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-30-09:01:20)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "16SEPC100M+TSS")
+)
+
+
+(pinAssign "ECS_623444"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-30-09:01:20)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_623444")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "16SEPC100M+TSS")
+)
+
+
+(part "16SEPC100M+TSS"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-30-09:01:20)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "16SEPC100M+TSS")
+    (pinAssignRef "ECS_623444")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Panasonic Aluminium Electrolytic Capacitor 150uF 16V dc 6.3mm Through Hole C6 OSCON SEP Series +105C")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "16SEPC100M+TSS")
+    (property "Mouser_Part_Number" "667-16SEPC100M+TSS")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/16SEPC100M%2bTSS?qs=OE1iw1LrrPEAt2lEmEitdA%3D%3D")
+    (property "Arrow_Part_Number" "16SEPC100M+TSS")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/16sepc100mtss/panasonic?region=nac")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf")
+    (property "compAreaTopHeight" 6)
+)
+
+

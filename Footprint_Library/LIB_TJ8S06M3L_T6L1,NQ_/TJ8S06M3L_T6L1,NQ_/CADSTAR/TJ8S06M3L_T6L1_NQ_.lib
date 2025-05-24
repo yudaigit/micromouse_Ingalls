@@ -1,0 +1,17 @@
+.TJ8S06M3L_T6L1_NQ_ :1 ;MOSFET P-Ch MOS -8A -60V 27W 890pF 0.104
+TJ8S06M3LT6L1NQ
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN TJ8S06M3L_T6L1_NQ_
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TJ8S06M3L(T6L1,NQ))
+~!Mouser Part Number (757-TJ8S06M3LT6L1NQ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/TJ8S06M3LT6L1NQ?qs=QrGA9tEX17PEUG7KazRO1Q%3D%3D)
+~!Arrow Part Number (TJ8S06M3L(T6L1,NQ))
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tj8s06m3l-t6l1nq/toshiba?region=nac)
+~!Link Datasheet (http://toshiba.semicon-storage.com/info/docget.jsp?did=22588&prodName=TJ8S06M3L)
+~!Height (2mm)
+TJ8S06M3L_T6L1_NQ_
+1.1!U 2.1!U 3.1!U 

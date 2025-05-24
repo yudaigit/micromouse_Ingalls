@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TJ8S06M3L_T6L1,NQ_
+D MOSFET P-Ch MOS -8A -60V 27W 890pF 0.104
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=22588&prodName=TJ8S06M3L
+$ENDCMP
+#
+#End Doc Library

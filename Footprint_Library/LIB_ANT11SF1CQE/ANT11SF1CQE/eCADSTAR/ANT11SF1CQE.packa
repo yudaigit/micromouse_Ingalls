@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ANT11SF1CQE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-08-17-08:24:26)
+    (mountForm default
+        (footprintRef "ANT11SF1CQE")
+        (spec "System")
+    )
+)

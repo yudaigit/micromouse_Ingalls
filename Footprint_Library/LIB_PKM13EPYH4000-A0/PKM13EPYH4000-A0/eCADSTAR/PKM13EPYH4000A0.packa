@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PKM13EPYH4000-A0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-01-04:54:52)
+    (mountForm default
+        (footprintRef "PKM13EPYH4000A0")
+        (spec "System")
+    )
+)

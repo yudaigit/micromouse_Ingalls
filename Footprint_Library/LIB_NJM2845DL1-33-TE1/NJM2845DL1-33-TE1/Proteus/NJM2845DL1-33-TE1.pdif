@@ -1,0 +1,111 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "NJM2845DL1-33-TE1"
+   (description "LDO Voltage Regulators 75dB 45uVrms 800mA 1.0uF 3.3V 1W")
+   (family "ANA")
+   (package "NJM2845DL133TE1")
+   (attribute "Datasheet Link" "https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJM2845_NJM2846_E.pdf")
+   (attribute "Geometry.Height" "2.38mm")
+   (attribute "Manufacturer_Name" "Nisshinbo")
+   (attribute "Manufacturer_Part_Number" "NJM2845DL1-33-TE1")
+   (attribute "Mouser Part Number" "513-NJM2845DL133-TE1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nisshinbo/NJM2845DL1-33-TE1?qs=Vf9KeiGtj%252BHsxdmME1E7bA%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "NJM2845DL1-33-TE1")
+    (pin "VIN" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "VOUT" 3 PS)
+   )
+  )
+  (symbol "NJM2845DL1-33-TE1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "NJM2845DL133TE1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.27 4.055)
+      (pt 3.27 4.055)
+      (pt 3.27 -1.985)
+      (pt -3.27 -1.985)
+      (pt -3.27 4.055))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.3 6.195)
+      (pt 4.3 6.195)
+      (pt 4.3 -6.305)
+      (pt -4.3 -6.305)
+      (pt -4.3 6.195))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.4 -5.8)
+      (arc (pt -2.400 -5.800) (pt -2.500 -5.850) (pt -2.400 -5.750) (start 180.0) (sweep .0))
+      (pt -2.5 -5.8)
+      (arc (pt -2.500 -5.800) (pt -2.500 -5.850) (pt -2.400 -5.750) (start 180.0) (sweep 180.0))
+      (pt -2.4 -5.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.27 -1.2)
+      (pt -3.27 -1.985)
+      (pt 3.27 -1.985)
+      (pt 3.27 -1.2))))
+   (leg 1 (pt -2.300 -4.055) (padstack 0))
+   (leg 2 (pt 0.000 2.195) (padstack 2))
+   (leg 3 (pt 2.300 -4.055) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.000 2.500 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (square 6.000))
+   )
+  )
+ )
+)

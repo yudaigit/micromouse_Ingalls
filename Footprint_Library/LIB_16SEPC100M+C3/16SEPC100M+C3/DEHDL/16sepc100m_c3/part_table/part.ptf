@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '16SEPC100M_C3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "16SEPC100M+C3" (!) = "", "CAPPRD250W50D630H600", "Capacitor, Polarized Radial Diameter", "", "", "", "", "100 F 16 V Aluminum - Polymer Capacitors Radial, Can 24mOhm 5000 Hrs @ 105C", "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf", "6 mm"
+END_PART
+
+END.

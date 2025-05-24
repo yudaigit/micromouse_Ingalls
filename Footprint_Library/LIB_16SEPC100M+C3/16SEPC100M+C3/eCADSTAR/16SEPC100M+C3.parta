@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_15348206"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-15-06:45:16)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "16SEPC100M+C3")
+)
+
+
+(pinAssign "ECS_15348206"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-15-06:45:16)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15348206")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "16SEPC100M+C3")
+)
+
+
+(part "16SEPC100M+C3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-15-06:45:16)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "16SEPC100M+C3")
+    (pinAssignRef "ECS_15348206")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "100 F 16 V Aluminum - Polymer Capacitors Radial, Can 24mOhm 5000 Hrs @ 105C")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "16SEPC100M+C3")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf")
+    (property "compAreaTopHeight" 6)
+)
+
+

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1556708"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-08-10:48:20)
+    (utime 2024-02-01-17:29:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SFH_4545")
+)
+
+
+(pinAssign "ECS_1556708"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-08-10:48:20)
+    (utime 2024-02-01-17:29:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1556708")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SFH_4545")
+)
+
+
+(part "SFH_4545"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-11-08-10:48:20)
+    (utime 2024-02-01-17:29:32)
+    (packageRef "SFH_4545")
+    (pinAssignRef "ECS_1556708")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "SFH 4545 Osram Opto, 950nm IR LED, 5 mm Through Hole package")
+    (property "Mouser_Part_Number" "720-SFH4545")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/SFH-4545?qs=VcOkZLzzaubOJpq6Xyji1A%3D%3D")
+    (property "Manufacturer_Name" "ams OSRAM")
+    (property "Manufacturer_Part_Number" "SFH 4545")
+    (property "Datasheet_Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036915.pdf")
+    (property "compAreaTopHeight" 8.3)
+)
+
+

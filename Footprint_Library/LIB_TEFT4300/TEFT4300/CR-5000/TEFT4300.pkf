@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TEFT4300"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TEFT4300")
+        (spec "default")
+    )
+)

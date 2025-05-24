@@ -1,0 +1,18 @@
+.B4B-XH-A :1 ;Wire-board; socket; male; XH; 2.5mm; PIN: 4; THT; 250V; 3A; -2585C
+B4BXHA
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN B4B-XH-A
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (B4B-XH-A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.jst-mfg.com/product/pdf/eng/eXH.pdf)
+~!Height (7mm)
+~!3D_Model (B4B-XH-A)
+B4B-XH-A
+1.1!U 2.1!U 3.1!U 4.1!U 

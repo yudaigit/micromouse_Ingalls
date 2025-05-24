@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TJ8S06M3L_T6L1_NQ_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-12-15:51:55)
+    (mountForm default
+        (footprintRef "TJ8S06M3LT6L1NQ")
+        (spec "System")
+    )
+)

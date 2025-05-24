@@ -1,0 +1,18 @@
+.TD62083AF :1 ;IC DRIVER DARL SINK 8-CH 18-SOP
+SOIC127P1030X245-18N
+*STM IC
+*NGS
+*PLB 1="I1" 2="I2" 3="I3" 4="I4" 5="I5" 6="I6" 7="I7" 8="I8" 9="GND" 10="COMMON" 11="O8" 12="O7" 13="O6" 14="O5" 15="O4" 16="O3" 17="O2" 18="O1"
+*MXP 18
+*DFN TD62083AF
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TD62083AF)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://pdf1.alldatasheet.com/datasheet-pdf/view/32261/TOSHIBA/TD62083AF.html)
+~!Height (2.45mm)
+~!3D_Model (TD62083AF)
+TD62083AF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 

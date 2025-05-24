@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=16SEPC100M+C3
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor, Polarized Radial Diameter
+PinCount=2
+Version=3.1
+Released=2021-10-15 06:45:16
+Downloaded=2024-09-26 04:51:09
+3D=Y

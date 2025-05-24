@@ -1,0 +1,18 @@
+.16SEPC100M :1 ;Panasonic Aluminium Polymer Capacitor 100uF 16V dc 6.3mm Through Hole C6 OS-CON Series +105C
+CAPPRD250W50D630H600
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 16SEPC100M
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (16SEPC100M)
+~!Mouser Part Number (667-16SEPC100M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/16SEPC100M?qs=OE1iw1LrrPGRx2gkoxhxNw%3D%3D)
+~!Arrow Part Number (16SEPC100M)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/16sepc100m/panasonic?region=nac)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf)
+~!Height (6mm)
+~!3D_Model (16SEPC100M)
+"16SEPC100M"
+1.1!U 2.1!U 

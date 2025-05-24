@@ -1,0 +1,18 @@
+.PKM13EPYH4000-A0 :1 ;Buzzers Transducer, Externally Driven Piezo 1.5 V 4kHz 70dB @ 1.5V, 10cm Through Hole PC Pins 
+PKM13EPYH4000A0
+*STM LS
+*NGS
+*PLB 1="+" 2="-"
+*MXP 4
+*DFN PKM13EPYH4000-A0
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (PKM13EPYH4000-A0)
+~!Mouser Part Number (81-PKM13EPYH4000-A0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/PKM13EPYH4000-A0?qs=flZjIlU0hx3F33gxKU9zcw%3D%3D)
+~!Arrow Part Number (PKM13EPYH4000-A0)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pkm13epyh4000-a0/murata-manufacturing?region=europe)
+~!Link Datasheet (https://www.murata.com/products/productdata/8801054523422/SPEC-PKM13EPYH4000-A0.pdf?1517839212000)
+~!Height (7.4mm)
+~!3D_Model (PKM13EPYH4000-A0)
+PKM13EPYH4000-A0
+1.1!U 2.1!U 

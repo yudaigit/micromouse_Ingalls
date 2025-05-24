@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TEFT4300
+D Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf
+$ENDCMP
+#
+#End Doc Library

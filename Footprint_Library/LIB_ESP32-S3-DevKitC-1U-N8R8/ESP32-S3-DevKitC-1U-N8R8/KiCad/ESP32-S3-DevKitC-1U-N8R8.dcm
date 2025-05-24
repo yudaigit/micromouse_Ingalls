@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S3-DevKitC-1U-N8R8
+D ESP32-S3-WROOM-1U-N8R8 ESP32-S Transceiver; 802.11 b/g/n (Wi-Fi, WiFi, WLAN), Bluetooth 5.x (BLE) 2.4GHz Evaluation Board
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

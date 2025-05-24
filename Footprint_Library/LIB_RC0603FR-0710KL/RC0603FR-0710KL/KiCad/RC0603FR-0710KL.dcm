@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0603FR-0710KL
+D Yageo 10k, 0603 (1608M) Thick Film SMD Resistor +/-1% 0.1W - RC0603FR-0710KL
+K
+F https://www.mouser.in/datasheet/2/447/PYu_RC_Group_51_RoHS_L_11-1984063.pdf
+$ENDCMP
+#
+#End Doc Library

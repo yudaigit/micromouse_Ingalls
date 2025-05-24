@@ -1,0 +1,18 @@
+.ANT11SF1CQE :1 ;SWITCH TOGGLE SPDT 5A 120V
+ANT11SF1CQE
+*STM S
+*NGS
+*PLB 1="NO" 2="NC" 3="COM"
+*MXP 3
+*DFN ANT11SF1CQE
+~!Manufacturer_Name (CIT Relay & Switch)
+~!Manufacturer_Part_Number (ANT11SF1CQE)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.citrelay.com/CatalogPages/SwitchCatalog/ANT.pdf)
+~!Height (26.66mm)
+~!3D_Model (ANT11SF1CQE)
+ANT11SF1CQE
+1.1!U 2.1!U 3.1!U 

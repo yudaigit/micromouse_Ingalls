@@ -1,0 +1,129 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PKM13EPYH4000-A0"
+   (description "Buzzers Transducer, Externally Driven Piezo 1.5 V 4kHz 70dB @ 1.5V, 10cm Through Hole PC Pins ")
+   (family "ANA")
+   (package "PKM13EPYH4000A0")
+   (attribute "Datasheet Link" "https://www.murata.com/products/productdata/8801054523422/SPEC-PKM13EPYH4000-A0.pdf?1517839212000")
+   (attribute "Geometry.Height" "7.4mm")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "PKM13EPYH4000-A0")
+   (attribute "Mouser Part Number" "81-PKM13EPYH4000-A0")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/PKM13EPYH4000-A0?qs=flZjIlU0hx3F33gxKU9zcw%3D%3D")
+   (attribute "Arrow Part Number" "PKM13EPYH4000-A0")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/pkm13epyh4000-a0/murata-manufacturing?region=europe")
+   (gate
+    (symbol "PKM13EPYH4000-A0")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "PKM13EPYH4000-A0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PKM13EPYH4000A0"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.8 7.3)
+      (pt 9.8 7.3)
+      (pt 9.8 -7.3)
+      (pt -4.8 -7.3)
+      (pt -4.8 7.3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.8 0)
+      (arc (pt -3.800 0.000) (pt -3.800 -6.300) (pt 8.800 6.300) (start 180.0) (sweep -180.0))
+      (pt 8.8 0)
+      (arc (pt 8.800 0.000) (pt -3.800 -6.300) (pt 8.800 6.300) (start 180.0) (sweep .0))
+      (pt -3.8 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.8 0)
+      (arc (pt -3.800 0.000) (pt -3.800 -6.300) (pt 8.800 6.300) (start 180.0) (sweep -180.0))
+      (pt 8.8 0)
+      (arc (pt 8.800 0.000) (pt -3.800 -6.300) (pt 8.800 6.300) (start 180.0) (sweep .0))
+      (pt -3.8 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.4 0)
+      (arc (pt -4.400 0.000) (pt -4.400 -0.050) (pt -4.300 0.050) (start 180.0) (sweep -180.0))
+      (pt -4.3 0)
+      (arc (pt -4.300 0.000) (pt -4.400 -0.050) (pt -4.300 0.050) (start 180.0) (sweep .0))
+      (pt -4.4 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 5.000 0.000) (padstack 2))
+   (leg MH1 (pt 2.500 3.750) (padstack 0))
+   (leg MH2 (pt 2.500 -3.750) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated false)
+    (pad (layer TCOP) (round 0.600))
+    (pad (layer INNER) (round 0.600))
+    (pad (layer BCOP) (round 0.600))
+   )
+   (padstack 1
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (square 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (square 1.200))
+   )
+   (padstack 2
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.200))
+    (pad (layer INNER) (round 1.200))
+    (pad (layer BCOP) (round 1.200))
+   )
+   (model "PKM13EPYH4000-A0.stp"
+    (euler 90 0 0)
+    (offset 0 0 1)
+   )
+  )
+ )
+)

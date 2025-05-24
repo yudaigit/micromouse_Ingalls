@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3362P_1_103LF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "3362P-1-103LF" (!) = "", "3362P_1", "Other", "652-3362P-1-103LF", "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-103LF?qs=tS7CBNq%252BQ07BavGNEQud%252BA%3D%3D", "3362P-1-103LF", "https://www.arrow.com/en/products/3362p-1-103lf/bourns?region=nac", "10k, Through Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3362", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000139931.pdf"
+END_PART
+
+END.

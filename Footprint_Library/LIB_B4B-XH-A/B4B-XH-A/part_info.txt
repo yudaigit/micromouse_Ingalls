@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=B4B-XH-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2022-03-26 08:14:45
+Downloaded=2024-09-26 04:32:45
+3D=Y

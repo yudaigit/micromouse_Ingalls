@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '16SEPC100M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "16SEPC100M" (!) = "", "CAPPRD250W50D630H600", "Capacitor, Polarized Radial Diameter", "667-16SEPC100M", "https://www.mouser.co.uk/ProductDetail/Panasonic/16SEPC100M?qs=OE1iw1LrrPGRx2gkoxhxNw%3D%3D", "Panasonic Aluminium Polymer Capacitor 100uF 16V dc 6.3mm Through Hole C6 OS-CON Series +105C", "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C247.pdf", "6 mm"
+END_PART
+
+END.

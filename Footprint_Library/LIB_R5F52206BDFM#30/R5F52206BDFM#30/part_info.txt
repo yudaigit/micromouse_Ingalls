@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=R5F52206BDFM#30
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=2.1
+Released=2020-01-03 17:25:55
+Downloaded=2024-09-11 15:21:58
+3D=Y

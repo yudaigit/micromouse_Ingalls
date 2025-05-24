@@ -1,0 +1,18 @@
+.TEFT4300 :1 ;Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package
+TEFT4300
+*STM Q
+*NGS
+*PLB 1="E" 2="C"
+*MXP 2
+*DFN TEFT4300
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (TEFT4300)
+~!Mouser Part Number (782-TEFT4300)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D)
+~!Arrow Part Number (TEFT4300)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/teft4300/vishay?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf)
+~!Height (6.1mm)
+~!3D_Model (TEFT4300)
+TEFT4300
+1.1!U 2.1!U 

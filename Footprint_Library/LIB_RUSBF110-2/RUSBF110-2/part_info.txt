@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=RUSBF110-2
+PartCategory=Resettable Fuse
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2021-09-09 09:17:25
+Downloaded=2024-09-16 05:02:46
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=PKM13EPYH4000-A0
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=6.1
+Released=2017-07-08 09:50:57
+Downloaded=2024-09-26 05:01:37
+3D=Y

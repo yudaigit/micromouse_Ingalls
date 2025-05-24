@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'R5F52206BDFM#30'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Renesas Electronics", "R5F52206BDFM#30" (!) = "", "QFP50P1200X1200X170-64N", "Quad Flat Packages", "968-R5F52206BDFM#30", "https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/R5F52206BDFM30/?qs=ZVKuL1Ob8AunE2VrwZ7crw%3D%3D", "R5F52206BDFM#30", "https://www.arrow.com/en/products/r5f52206bdfm30/renesas-electronics", "The RX220 Group of products is the slimmed-down version of the higher model RX210 Group, and has very high compatibilility in terms of pin arrangement and on the software level.", "https://www.renesas.com/sg/en/doc/products/mpumcu/doc/rx_family/r01ds0130ej0110_rx220.pdf", "1.7 mm"
+END_PART
+
+END.
