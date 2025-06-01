@@ -1,0 +1,18 @@
+.AO3400A :1 ;30V N-Channel MOSFET
+SOT95P280X125-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN AO3400A
+~!Manufacturer_Name (Alpha & Omega Semiconductors)
+~!Manufacturer_Part_Number (AO3400A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (AO3400A)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ao3400a/alpha-and-omega-semiconductor?utm_currency=USD&region=nac)
+~!Link Datasheet (http://aosmd.com/res/data_sheets/AO3400A.pdf)
+~!Height (1.25mm)
+~!3D_Model (AO3400A)
+AO3400A
+1.1!U 2.1!U 3.1!U 
